@@ -70,8 +70,9 @@ The project workflow covers:
 * Interactive Filters
 * Business Insights
 
-**Dashboard Preview:**
-(Add dashboard screenshot here)
+<img width="1203" height="726" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/742afdd0-4abd-4358-b45e-2a3cecaf2619" />
+
+
 
 ### Business Impact
 
